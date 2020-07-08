@@ -1,0 +1,54 @@
+8
+
+dir
+62
+svn://locascio/Flame/trunk/daan_controller/installed-files
+svn://locascio/Flame
+
+
+
+2008-05-09T14:19:11.155081Z
+62
+flame
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0adcd301-2a1d-0410-aad0-eecaf86a1e9d
+
+Flame_core_helper
+file
+
+
+
+
+2010-05-21T14:14:53.000000Z
+8897744f5c571ce3cfc77428620096e5
+2008-05-09T14:19:11.155081Z
+62
+flame
+has-props
+
+Flame_core
+file
+
+
+
+
+2010-05-21T14:14:53.000000Z
+4f31161c4e4a64d68d2b9bcd3fa8aacd
+2008-05-09T14:19:11.155081Z
+62
+flame
+has-props
+
